@@ -27,4 +27,4 @@ And start it back up like this:
 docker start wordpress
 ```
 
-Enjoy your wordpress install courtesy of Docker!
+Enjoy your wordpress install courtesy of Docker.
